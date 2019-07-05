@@ -1,4 +1,4 @@
-# How to integrate your static website with DynamoDB (without using Lambda)
+# How to integrate your static website with DynamoDB (without using Lambda) for the Enterprise
 
 In this lab we will show you how you can communicate directly with a DynamoDB back-end from client-side script in your static hosted website.
 
